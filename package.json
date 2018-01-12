@@ -1,0 +1,15 @@
+{
+  "name": "printname",
+  "version": "0.0.1",
+  "description": "print name",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo name && exit it"
+  },
+  "keywords": [
+    "print",
+    "something"
+  ],
+  "author": "fooke",
+  "license": "ISC"
+}
